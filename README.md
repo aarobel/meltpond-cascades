@@ -4,4 +4,4 @@ Cellular automaton describing network of filling, draining and interacting melt 
 MATLAB functions encoding model are: meltponds_nonconserve.m, meltponds_nbrlist.m, RndPondDist.m
 MATLAB scripts used to make figures in Robel & Banwell, GRL, 2019: Meltpond_CA_fig2.m, Meltpond_CA_fig3.m, Meltpond_CA_fig4.m
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/aarobel/meltpond-cascades/blob/master/MP_regular_n50_hfd4_anim.gif)
